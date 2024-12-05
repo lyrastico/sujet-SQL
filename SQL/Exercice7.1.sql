@@ -1,0 +1,1 @@
+DELETE FROM Enrollments WHERE course_id = 1;
